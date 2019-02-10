@@ -9,7 +9,7 @@
     This script will target a specific OU(Org Unit) and DC(Domain Controller) and will pull all users in a CSV file then spit out which one has no members. Really useful for cleaning up Active Directories.
 
     Full Name to USERNAME
-      This script will take the input of all servers you have; run the Full Name of that person through the directory of all servers and spit out their usernames! Extremely usefull for troubleshooting directory account issues.
+      This script will take the input of all servers you have; run the Full Name of that person through the directory of all servers and spit out their usernames! Extremely useful for troubleshooting directory account issues.
 
     Username Extractor
       This script will import a list of users FIRST AND LAST NAMES in a CSV; then run a Try-Catch function then export their DisplayName, and Email address.  
@@ -25,7 +25,7 @@
         $domain
         "C:\Users\USERNAME\\
       Folder Items
-        This script will pull the targeted user's email folders and the count of emails in those folders. Really useful for troubleshooting Mailbox size issues. (Note this is for microsoft Exchange 2013!)
+        This script will pull the targeted user's email folders and the count of emails in those folders. Really useful for troubleshooting Mailbox size issues. (Note this is for Microsoft Exchange 2013!)
 
 # Folder: Security
     Secured Admin Creds
